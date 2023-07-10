@@ -106,9 +106,9 @@ analytics:
 author:
   name             : "Kihwan Yu"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "please...."
+  bio              : "Ph.D student at KSU"
   location         : "Kansas State University"
-  email            :
+  email            : "kihwanyu@ksu.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
